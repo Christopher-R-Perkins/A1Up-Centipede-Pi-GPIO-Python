@@ -4,7 +4,7 @@
 
 ## Modding an Arcade1Up Centipede Cab
 
-  
+[This github repo is a copy of a blogpost I made in january 2019](https://quasari.blogspot.com/2019/01/how-to-modify-your-arcade1up-centipede.html)
 
 ### Goals of this mod:
 
